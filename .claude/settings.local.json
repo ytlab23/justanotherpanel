@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:web.archive.org)",
+      "Bash(python3:*)",
+      "Bash(curl:*)"
+    ]
+  }
+}
